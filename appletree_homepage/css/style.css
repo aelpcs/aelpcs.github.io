@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
 	text-align: left;
@@ -56,7 +56,7 @@ h1 {
 	font-size:48px;
 	text-align: center;
 	color: #FFF;
-	font-family:'Mystery Quest', cursive;
+	font-family: 'Amatic SC', cursive;
 }
 h2{
 	text-align: center;
@@ -64,7 +64,7 @@ h2{
   	font-style: italic;
     padding-top: .8em;
     padding-bottom:.8em;
-    border-bottom: 4px solid #000;
+    border-bottom: 4px solid orange;
     background: #ff0000;
 }
 p {
@@ -79,7 +79,7 @@ h3{
   	font-style: italic;
     padding-top: .8em;
     padding-bottom:.8em;
-    border-bottom: 4px solid #373FB2;
+    border-bottom: 4px solid orange;
     background: #F3FB09;
 }
 h4{
@@ -88,7 +88,7 @@ h4{
   	font-style: italic;
     padding-top: .8em;
     padding-bottom:.8em;
-    border-bottom: 4px solid #373FB2;
+    border-bottom: 4px solid orange;
     background: #8CE93B;
 }
 h5{
@@ -97,7 +97,7 @@ h5{
   	font-style: italic;
     padding-top: .8em;
     padding-bottom:.8em;
-    border-bottom: 4px solid #373FB2;
+    border-bottom: 4px solid orange;
     background: #933BCE;
 }
 #splash {
