@@ -65,7 +65,7 @@ h2{
     padding-top: .8em;
     padding-bottom:.8em;
     border-bottom: 4px solid orange;
-    background: #ff0000;
+    background: #BC0808;
 }
 p {
 	margin-top:1em;
@@ -118,7 +118,7 @@ h5{
 	margin:0 0 1em;
 } 
 .cta{
-	background:#ff0000;
+	background:#BC0808;
 	border-radius:.25em;     
 	color:#fff;     
 	display:inline-block;     
