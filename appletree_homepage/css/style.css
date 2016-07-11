@@ -17,6 +17,13 @@ nav{
   	font-size: 1.2em;
   	width: 50%;
   	float: left;
+  	text-align: center;
+  	font-size:2em;
+  	font-style: italic;
+    padding-top: .8em;
+    padding-bottom:.8em;
+    border-bottom: 4px solid orange;
+    background: #F3FB09;
 }
 #main column {
 	float: left;
