@@ -25,7 +25,7 @@ nav{
   float:right;
 }
 nav {
-	background-color: orange;
+	background-color: #ffa200;
 	font-family: Arial, sans-serif;
 	float: right;
 }
@@ -65,7 +65,7 @@ h2{
     padding-top: .8em;
     padding-bottom:.8em;
     border-bottom: 4px solid orange;
-    background: #BC0808;
+    background: #b50900;
     border-radius: .25em;
 }
 p {
@@ -74,33 +74,6 @@ p {
   	line-height:1.5em;
   	margin:2em;
 } 
-h3{
-	text-align: center;
-  	font-size:2em;
-  	font-style: italic;
-    padding-top: .8em;
-    padding-bottom:.8em;
-    border-bottom: 4px solid orange;
-    background: #F3FB09;
-}
-h4{
-	text-align: center;
-  	font-size:2em;
-  	font-style: italic;
-    padding-top: .8em;
-    padding-bottom:.8em;
-    border-bottom: 4px solid orange;
-    background: #8CE93B;
-}
-h5{
-	text-align: center;
-  	font-size:2em;
-  	font-style: italic;
-    padding-top: .8em;
-    padding-bottom:.8em;
-    border-bottom: 4px solid orange;
-    background: #933BCE;
-}
 #splash {
 	background:url(http://aelpcs.github.io/appletree_homepage/images/writing_table_homepage.png);
 	background-size:cover;
@@ -119,7 +92,7 @@ h5{
 	margin:0 0 1em;
 } 
 .cta{
-	background:#BC0808;
+	background: #b50900;
 	border-radius:.25em;     
 	color:#fff;     
 	display:inline-block;     
