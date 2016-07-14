@@ -115,3 +115,26 @@ footer {
 	clear:both;
 	margin-top:2em
 }
+@media only screen and (max-width: 800px) {
+	 nav {
+    float: none;
+  }
+   nav a {
+    margin: 0 1.6em .75em 0;
+  }
+   img {
+    width: 320px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  h1, nav{
+  display:block;
+  text-align:center;
+  }
+   nav a {
+    margin: 0 1em 1em;
+  }
+   img {
+    width: 230px;
+  }
+}
