@@ -58,6 +58,10 @@ h1 {
 	color: #FFF;
 	font-family: 'Amatic SC', cursive;
 	background-position: center;
+	background padding-right: .5em;
+	background padding-left: .5em;
+	background padding-top: 1em;
+	background padding-bottom: 1em;
 }
 h2{
 	text-align: center;
