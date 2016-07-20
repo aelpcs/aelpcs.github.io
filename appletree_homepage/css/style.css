@@ -99,6 +99,14 @@ p {
 	padding: 10em 0 0;
 	text-align:center;
 }
+#splash2{
+background:url(http://aelpcs.github.io/appletree_homepage/images/students_on_carpet.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 85vh;
+	padding: 10em 0 0;
+	text-align:center;
+}
 #splash div {
     display: inline-block;
     background: orange;
