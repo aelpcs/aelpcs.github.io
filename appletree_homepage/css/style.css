@@ -95,6 +95,7 @@ p {
 	background:url(http://aelpcs.github.io/appletree_homepage/images/writing_table_homepage.png);
 	background-size:cover;
 	background-repeat:no-repeat;
+	background-image:fixed;
 	height: 85vh;
 	padding: 10em 0 0;
 	text-align:center;
