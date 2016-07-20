@@ -71,12 +71,15 @@ h2{
 }
 #mission{
 font-color:white;
+background:#c1d72e;
 }
 #residency{
 font-color:white;
+background:#0082c8; 
 }
 #results{
 font-color:white;
+background:#ffa200; 
 }
 p {
 	margin-top:1em;
